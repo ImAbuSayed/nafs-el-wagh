@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> عيناك في الليل تسحر كياني
+> نار الأشواق تحرق زماني
+> في صمتنا نبض الغرام يثور
+> دعنا نطير حيث لا نور
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
