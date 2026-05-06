@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 28, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/nafs-el-wagh/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Music Rights & Licensing for Nafs El Wagh](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
