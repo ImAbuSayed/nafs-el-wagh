@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nafs El Wagh
+
+This log tracks the cryptographic history and versioning for the song **Nafs El Wagh** (nafs-el-wagh).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T05:59:24.187419 | `v1` | `45b03c8ee383e3ebf32f082f166c54d3927335ddb856e8cfe78395bd9f3c622c` | `99de3d2aa20a909df239e6894f08b85dd8da3eda944eb8b3e5aba8e40ff49e05` | `2026-05-09_nafs-el-wagh-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
